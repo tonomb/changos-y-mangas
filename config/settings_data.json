@@ -15,7 +15,7 @@
           "main_menu_link_list": "main-menu",
           "drawer_bottom_link_list": "footer",
           "drawer_search_enable": false,
-          "show_announcement": true,
+          "show_announcement": false,
           "home_page_only": true,
           "text": "Announce something here",
           "color_bg": "#1c1d1d",
@@ -28,6 +28,7 @@
           "slideshow-0": {
             "type": "slide",
             "settings": {
+              "image": "shopify:\/\/shop_images\/stylish-man-outdoors.jpg",
               "image_position": "center center",
               "image_overlay": true,
               "image_overlay_opacity": 25,
