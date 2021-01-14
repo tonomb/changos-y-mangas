@@ -130,9 +130,10 @@
                   </p>
                 {%- endunless -%}
                 {%- unless block.settings.slide_heading == blank -%}
-                  <h2 class="hero__title h1">
+                  <h2 class="hero__title h1" style="text-decoration: underline;">
                     {{ block.settings.slide_heading | escape }}
                   </h2>
+                  <p class="hero__subtitle">Vota por tu favorita</p>
                 {%- endunless -%}
                 {%- if block.settings.button_label != blank and block.settings.button_link != blank -%}
                   <a href="{{ block.settings.button_link }}" style="color: {{ block.settings.slide_button_label_color }}; background-color: {{ block.settings.slide_button_background_color }}" class="btn hero__cta">
