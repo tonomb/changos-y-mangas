@@ -31,14 +31,14 @@
               "image": "shopify:\/\/shop_images\/stylish-man-outdoors.jpg",
               "image_position": "center center",
               "image_overlay": true,
-              "image_overlay_opacity": 25,
+              "image_overlay_opacity": 34,
               "text_alignment": "center",
               "slide_heading": "Changos Y Mangas",
-              "slide_subheading": "",
+              "slide_subheading": "T-shirts edicion limitada diseñadas por ti",
               "button_label": "Shop now",
               "slide_text_color": "#ffffff",
               "slide_button_label_color": "#ffffff",
-              "slide_button_background_color": "#1f2021"
+              "slide_button_background_color": "#1989f9"
             }
           }
         },
@@ -54,9 +54,9 @@
       "featured-content": {
         "type": "featured-content",
         "settings": {
-          "home_page_full_width": false,
-          "section_title": "",
-          "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+          "home_page_full_width": true,
+          "section_title": "Como Funciona",
+          "text": "<p>Cada mes hacemos un concurso de diseño donde cualquier persona puede participar.<\/p><p>El Ganador del concurso se lleva $10,000 pesos e imprimimos su diseño en un numero limitado de t-shirts <\/p><p>Vota por tu diseño favorito<\/p>",
           "text_size": "large"
         }
       },
